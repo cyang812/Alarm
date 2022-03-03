@@ -127,7 +127,7 @@ public class CreateAlarmFragment extends Fragment {
         int id = 0;
         String alarmTitle = "miss you";
         String hour = "8";
-        String minute = "12";
+        String minute = "13";
         boolean alarmRecurring = false;
 
         Log.e(TAG, "alarmInfoArrayList: " + alarmInfoArrayList.size());
